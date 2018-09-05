@@ -1,0 +1,21 @@
+Essay Questions: 
+
+History: Mars is in retrograde when the Earth appears to catch up to where Mars is on the Ecliptic Plane, and the Mars appears to move backwards from the viewpoint of Earth. 
+~~~~~~~~~~~~~~
+Aristotle: Earth is stationary, and everything orbits the Earth. The stars are fixed on the celestial sphere, and aren't much further away than Saturn. Orbits are circular.
+
+Ptolemy: **This is all incorrect information in History (1500 Years)** Earth is in the center, planets have *small circles* on the larger orbit around Earth.
+
+Copernicus: Proposed the Heliocentric model. *still wrong because the orbits are circles* 
+~~~~~~~~~~~~~~
+Kepler: Used observations made by Tycho Brahe to develop the three laws of planetary motion.
+	-First Law: The orbit of each planet around the Sun is an ellipse with the Sun at 
+	one focus. 
+	-Second Law: As a planet moves around its orbit, it sweeps out equal area in equal 
+	times. (A planet travels faster when it is nearer to the Sun and slower when it's 
+	further away from the sun. 
+	-Third Law: More distant planets orbit the Sun at slower average speeds with the 
+	relationship p^2 = a^3. (p = orbital period / a = avg distance from the Sun in AU) 
+Galileo: First astronomer to use a telescope. Found moons around Jupiter. Not everything revolves around the Earth. 
+
+Newton: 
