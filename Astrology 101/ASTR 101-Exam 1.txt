@@ -18,4 +18,28 @@ Kepler: Used observations made by Tycho Brahe to develop the three laws of plane
 	relationship p^2 = a^3. (p = orbital period / a = avg distance from the Sun in AU) 
 Galileo: First astronomer to use a telescope. Found moons around Jupiter. Not everything revolves around the Earth. 
 
-Newton: 
+Newton:	-F = GMm/r^2
+	-Escape Velocity: The necessary force needed to escape the gravitational forces of a planet. If the velocity is equal to the escape velocity, then the object will enter orbit. V = 2GM/r 
+
+Blackholes: An object such that not even light can escape. 
+
+Tides: Moon's gravity pulls harder on near side of the Math and on the far side. Difference in Moon's gravitational pull stretches Earth. 
+~~~~~~~~~~~~~~~
+Light: Waves of light have wavelengths, which measures the distance in crests in the waves. 
+	-Gamma Rays: Short wavelength, high energy 
+	-X-rays: Short wavelength, slightly less engird
+	-UV light: 
+	-Visible light: Anything that can be seen by humans 
+	-Infrared light: Heat radiation 
+	-Microwaves: Safe for humans
+	-Radio waves: Safe for humans. Long wavelength 
+
+	Wien's Law: Everything emits light, the wavelengths depends on the temperature.
+			Sun->hot = visible light / moon->cold = infrared light 
+
+~~~~~~~~~~~~~~
+Global Warming: 
+
+	-What warms the Earth?: Visible light hits dark surfaces. CO2 blankets IR-light.  
+
+	-What cools the Earth?: The Earth emits infrared light 
