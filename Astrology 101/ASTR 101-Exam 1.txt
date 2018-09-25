@@ -43,3 +43,12 @@ Global Warming:
 	-What warms the Earth?: Visible light hits dark surfaces. CO2 blankets IR-light.  
 
 	-What cools the Earth?: The Earth emits infrared light 
+
+~~~~~~~~~~~~
+Blue and Violet are higher energy and shorter wavelength. Red is lowest energy and longest wavelength.
+
+Thermal Radiation: 1. Hotter objects emit more light at all frequencies per unit 
+		   2. Hotter objects emit photos with a higher average energy 
+
+Doppler effect: Moving towards from you - Blueshifted compression
+		Moving away from you - Redshifted 
