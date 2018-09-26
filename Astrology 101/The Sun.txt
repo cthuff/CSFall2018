@@ -21,3 +21,10 @@ Nuclear Fission: A big nucleus splits into smaller pieces (Nuclear Power Plants 
 	-Neutrinos: Particles that exist in the atmosphere that have no effect on people. Somewhat difficult to detect.
 
 Inside the sun, neutrinos are faster than light (photons). Energy gradually leaks out of radiation some in form of randomly bouncing photons. High temperature enables nuclear fusion to happen in the core. 
+
+~~~~~~~~~~~~~
+Sunspots: Cooler than other parts of the Sun 4000ºK. They are strong magnetic fields (they appear in pairs on the Sun with a North and South magnetic pair). They appear due to the twisting and winding of the Sun's magnetic field. 
+
+Charged particles streaming from the Sun can disrupt electrical power fires and disable communication satellites. Solar win strikes atmosphere at the poles and the atmosphere glows. 
+
+Sunspots rise and fall in an 11 year cycle.  
