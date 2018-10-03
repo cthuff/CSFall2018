@@ -1,4 +1,23 @@
 Exam 2 : Free Response Questions 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Why does gravity dominate the motion of celestial objects even though it is the weakest force? 
+-You cannot turn off gravity (it's always present). But you can turn off other forces such as an electromagnetic force. 
 
+~~~~~~~~~~~
+Astronomical Instruments:
+
+Wavelengths: Radio Waves and Visible light penetrate through the atmosphere. 
+We put telescopes above the atmosphere so we can see visible light better and more accurately. Radio waves are the only waves that can make it through the atmosphere unchanged. 
+
+Greenhouse effect: Visible light warms the earth when it hits a dark surface that absorbs the light. The Earth releases energy through infrared to cool itself. Infrared has trouble making it through the atmosphere and C02 magnifies this effect. So the Earth has no way of cooling itself down. 
+
+Telescopic Resolution: sigma = Lambda / D -> pixel size = small wavelength / Big value 
+Interferometry -> We can get a huge telescope by combining two beams of light to make two wavelengths
+
+~~~~~~~~~~~~~
+The Sun: 
+
+4H -> He + Gamma Rays + Neutrinos : Fusion Reaction 
+
+Solar Seismology = Sun-quakes -> Along with neutrinos tell us about the center of the sun
