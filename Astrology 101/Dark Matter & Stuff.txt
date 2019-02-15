@@ -1,0 +1,38 @@
+~~~~~~~~~~~~~
+Important Numbers 
+
+R_Sun = 100 R_Earth
+1 AU = 200 R_Sun
+1 Light Year = 6x10^4 AU
+1 Galaxy = 10^5 Light Year
+1 Observable Universe = 13.7 x 10^9 Light Years
+
+~~~~~~~~~~~~~~
+The Universe 
+
+Normal Matter = 4.4%
+	-Matter outside of stars = 3.8%
+	-Matter inside of stars = 0.6%
+Dark Matter = 25%
+Dark Energy = 71%
+
+~~~~~~~~~~~~~~~
+Dark Matter
+
+Rotation Curve of the Galaxy: 
+	-The flat piece of the edge of the galaxy of the rotational curve doesn't make sense.
+	-Dark Matter is the reason that galaxies exists. It provided the gravity after the Big Bang. (No stars, galaxies, or planets without dark matter)
+
+
+The further away a planet is from the sun, the slower it travels around the sun. 
+The further away a star is from the center, it still goes fast. (There should be less gravity)
+
+A galaxy really sits in a field of dark matter, which is where most of the gravity comes from. That's why the stars still travel very quickly. 
+
+Gravitational Lensing: The bending of light rays by gravity. (Tells us about a cluster's mass) 
+
+When galaxies collide, dark matter separates from the normal matter. 
+
+Hubble Law: The further a galaxy is, the faster it's moving away from us. (Redshift) This means that space is expanding.
+
+~~~~~~~~~~~~~

@@ -1,0 +1,122 @@
+~~~~~~~~~~~~~~~~
+Planet Detection: 
+
+Extrasolar Planet Detection Methods - 
+
+The disk around the star is where planets are made. 
+
+1. The Doppler Method: The presence of an orbiting planet causes the star ("wobble" to move as seen from Earth. The motion is detected by the Doppler shift of the spectral lines. 
+	•Led to the observation of Hot Jupiters! (Reverses the snow line argument of gas giants) 
+
+2. Transit Method: Super Earths! (Uses light curves during planetary transit) A planet like Neptune but at the location of Earth. 
+
+3. Gravitational Lensing: Gravity makes light bend, and we can observe the light changing to find planets.Floating planets can be found that are not connected to any stars. 
+
+~~~~~~~~~~~~~~~~~~~~~~~
+History of Solar Mass Star:
+
+Cloud +	    	->   ProtoStar	    ->   Planets (Pizza-thing) 
+Cold Gas +	     No fusion
+Contraction	     Spins faster   ->   Main Sequence 	    ->   Runs out of H at ->  Red Giant 		-> Helium Flash    ->   Surface gets hotter   
+due to gravity				 Fusion begins 	 	 core 		      Surface gets colder	   3He -> C		Surface Contracts	
+					 Temp = 10^7ºK				      Surface expands		   			Core gets colder	
+					 H -> He 				      Core gets hotter					Core Expands 		
+										      Core contracts (smaller)
+
+
+ -> Helium Burning Star ->    Run out of He  ->   Surface gets colder   ->   Double Shell burning 		-> 	Planetary Nebula       ->    	White dwarf 
+			      at the core	  Surface expands	     Burning H, He at the same time		puffs into space 	     	Core is diamond from the pressure
+						  Core gets hotter	     Doesn't work, no balance			(becomes a cloud again)		No fusion - Dead Star
+						  Core contracts 			
+
+
+
+The Sun's luminosity will rise to 1000 times its current level - too hot for any life on Earth
+
+Three possible leftovers from the death of a star 
+	-Star dies and leaves behind a White Dwarf 
+	-Black Hole
+	-Neutron Star 
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Black Holes
+
+Chandrasekhar:
+ 
+White Dwarf - 1M Sun - Weight / Size = Earth 
+|
+(Feed)
+|
+Neutron Star - More mass than the Sun / Size = City
+
+Protons + electors -> neutrons + neutrinos 
+P + e -> n + v
+
+
+Electrons fight gravity. Electrons lose the fight but Neutrons are fighting gravity. 
+
+Black Holes - If we keep feeding a neutron star, then gravity wins.
+What is the size of a black hole? = Singularity (The size is 0)
+
+ White Dwarfs -> less than 1.4 M Sun (about the size of the earth) 
+{
+ Neutron Star - Between 1.4 and 3M Sun (About the size of a city)
+{
+ Black Hole - More than 3M Sun (Size = 0)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Twin Paradox: You can travel into the future 
+
+Black holes exist because we can see the x-rays from the materials that the black holes are "eating." The X-rays come from the rings around the black hole: the accretion disk.
+
+Gravitational Lensing: Light is bent around the event horizon (singularity). The light is warped and will make it seem like the light is coming from somewhere where it's not actually. 
+
+Pulsars = neutron stars = lighthouses 
+	–Neutron stars are not related to pulsating stars
+	-Neutron stars masses are generally the same size as Pulsars 
+	-The stars spin so fast that light is emitted from them and it looks like a lighthouse.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+Review
+
+Sun Birth: 	150 MSun  -> Largest size a start can be (< 150 becomes too windy)
+		0.08 MSun -> Less than 0.08 MSun -> No Fusion (Brown Dwarf = Failed Star)
+
+Star Death:
+		15 MSun -> 	More than 15M Sun = A black hole
+		5 < M < 15 -> 	Neutron Star
+		5 MSun ->	White Dwarf 
+
+Leftover: 	3 MSun ->	You have a black hole 
+		1.4 < M < 3 	Neutron Star
+		1.4MSun ->	White Dwarf 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Nearby Stars: Parallax and Tiragulation 
+
+P -> L -> Distance 
+Period -> Luminosity relationship 
+
+
+Cepheid is a Variable Star
+
+The period of the star is a wave and gets brighter and dimmer.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+REGIONS: 
+Cosmic Rays - High Energy particles resulting from the explosions of stars
+
+HII Regions = Hot Gas (Glows)
+
+HI Regions = Cold Gas (Radio Waves) 
+
+DUST:
+
+Dust leads to planets. And when a star explodes they go back to dust. 
+
+Sunsets: Stars in space get redder because of dust. 
+When a wave (blue light) is shorter than the particle of interference it will bounce off the particle.
+When a wave (red light) is longer than the particle of interference it will go through the particle.
+On Earth, smog interferes and reflects any blue light coming from the sun and only the redlight can get through. This is why sunsets appear to be red. 
